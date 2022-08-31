@@ -8,12 +8,16 @@ class UserInput
         {
             System.out.println("Enter name :");
             String name=s.next();
+
             System.out.println("Enter your age :");
             int age=s.nextInt();
+
             System.out.println("Enter your Gender :");
             char gender=s.next().charAt(0);
+
             System.out.println("Enter your Ph.No");
             long phno=s.nextLong();
+            
             System.out.println("-------------------------");
             System.out.println("Name:"+name);
             System.out.println("Age:"+age);
