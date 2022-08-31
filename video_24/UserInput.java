@@ -1,3 +1,4 @@
+// Getting User Input in Java using Scanner Class.
 import java.util.Scanner;
 class UserInput
  {
