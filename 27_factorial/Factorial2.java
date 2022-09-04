@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Factorial1 
+class Factorial2
 {
     public static void main(String[] args)
     {
@@ -7,7 +7,7 @@ class Factorial1
             System.out.println("Enter the no");
             int no=s.nextInt();
             int fact=1;
-            for(int i=no;i>=no;i--)
+            for(int i=no; i>=1; i--)
             {
                 fact=fact*i;
             }
