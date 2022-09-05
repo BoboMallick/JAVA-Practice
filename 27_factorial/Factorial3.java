@@ -10,7 +10,7 @@ class Factorial3
     }
     public static long fact(long num)
     {
-        if(num==0)
+        if(num==1)
         {
             return 1;
         }else{
