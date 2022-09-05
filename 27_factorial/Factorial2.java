@@ -11,7 +11,7 @@ class Factorial2
             {
                 fact=fact*i;
             }
-            System.out.println("Factorial: " + no + " is " + fact);
+            System.out.println("Factorial " + no + " is " + fact);
         
     }
 }
