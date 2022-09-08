@@ -1,4 +1,4 @@
-//Reverse a number that has a ZERO at the last placein Java.
+//Reverse a number that has a ZERO at the last place in Java.
 
 import java.util.Scanner;
 class ReverseANum2
