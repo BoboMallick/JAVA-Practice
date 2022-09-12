@@ -9,7 +9,7 @@ class PrimeNo2
         int no=r.nextInt();
         for(int i=1; i<=no; i++)
         {
-            if(n%i==0)
+            if(no%i==0)
             {
                 count++;
             }
